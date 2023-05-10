@@ -1,7 +1,9 @@
-// A
-// BC
-// DEF
-// GHIJ
+/* A
+   BC
+   DEF
+   GHIJ */
+
+/* Answer */
 
 package PBL.basic.patterns;
 import java.util.*;
