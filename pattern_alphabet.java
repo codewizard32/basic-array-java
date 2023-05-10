@@ -1,3 +1,8 @@
+// A
+// BC
+// DEF
+// GHIJ
+
 package PBL.basic.patterns;
 import java.util.*;
 
